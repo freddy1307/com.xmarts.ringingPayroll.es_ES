@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_TEXTINTERFACES" version="">
+  <row id="0E4F3EBDEFEB4782A3196BC52FEF4497" trl="N">
+    <value column="Text" isTrl="N" original="Cargar Empleados">Cargar Empleados</value>
+  </row>
+  <row id="19735927B74645B3924C6F4A186B50DC" trl="N">
+    <value column="Text" isTrl="N" original="Print Upload">Print Upload</value>
+  </row>
+  <row id="294F3601FE274B1C9F5E0051E8874F04" trl="N">
+    <value column="Text" isTrl="N" original="Cargar">Cargar</value>
+  </row>
+  <row id="488418A70A44472C9D287A98153EDC80" trl="N">
+    <value column="Text" isTrl="N" original="Cargar Excel">Cargar Excel</value>
+  </row>
+  <row id="6AF62416B90340E389DB03A5188F6ECF" trl="N">
+    <value column="Text" isTrl="N" original="Cargar empleados">Cargar empleados</value>
+  </row>
+  <row id="7A9961AEEDD84180B21E27B215006221" trl="N">
+    <value column="Text" isTrl="N" original="Info: AccessTableWithNoView">Info: AccessTableWithNoView</value>
+  </row>
+  <row id="7D9AC4AAC53C4585B1CB4866CF002973" trl="N">
+    <value column="Text" isTrl="N" original="Cargar">Cargar</value>
+  </row>
+  <row id="7F5F76BAC59F4C4985BE9E9B7664F76C" trl="N">
+    <value column="Text" isTrl="N" original="The current information is empty.">The current information is empty.</value>
+  </row>
+  <row id="96655EC420134EB7A2846CE47F0A5086" trl="N">
+    <value column="Text" isTrl="N" original="Cargar CDR">Cargar CDR</value>
+  </row>
+  <row id="9FF8343FE1EE41EBAF2DCF6FE9C1AA89" trl="N">
+    <value column="Text" isTrl="N" original="Cargar conceptos">Cargar conceptos</value>
+  </row>
+  <row id="AF62037B283142FC858F3062473BDA5F" trl="N">
+    <value column="Text" isTrl="N" original="Para cargar un excel es necesario que la extension del archivo sea .xls">Para cargar un excel es necesario que la extension del archivo sea .xls</value>
+  </row>
+  <row id="B58A54A2179648C292019B46583921E5" trl="N">
+    <value column="Text" isTrl="N" original="Print Invoice">Print Invoice</value>
+  </row>
+  <row id="C69C914768F441B690B5B0F61A490F08" trl="N">
+    <value column="Text" isTrl="N" original="The current information is empty.">The current information is empty.</value>
+  </row>
+  <row id="C762F5A75E24447BA4CA7937B91B2356" trl="N">
+    <value column="Text" isTrl="N" original="Info: AccessTableWithNoView">Info: AccessTableWithNoView</value>
+  </row>
+  <row id="D884E31EA4804910BA472FFFE0ADAFE0" trl="N">
+    <value column="Text" isTrl="N" original="Cargar CDR">Cargar CDR</value>
+  </row>
+  <row id="DBF4B386CE7E4F8EAD5B02C068D5BAF0" trl="N">
+    <value column="Text" isTrl="N" original="Para cargar un excel es necesario que la extension del archivo sea .xls. Ademas es necesario que el metodo de pago, condiciones de pago y la moneda tengan el mismo nombre en el Excel al que tienen en el Openbravo respectivamente.">Para cargar un excel es necesario que la extension del archivo sea .xls. Ademas es necesario que el metodo de pago, condiciones de pago y la moneda tengan el mismo nombre en el Excel al que tienen en el Openbravo respectivamente.</value>
+  </row>
+</compiereTrl>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_MENU" version="">
+  <row id="3E0199E26E034F8BA648179B70ED0765" trl="Y">
+    <value column="Name" isTrl="Y" original="Ringing Payroll Management">Gestión del Timbrado de nómina</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="47417C2C4E454B22A9B53001BEE59E68" trl="Y">
+    <value column="Name" isTrl="Y" original="Receipts Payroll">Recibos de nómina</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="89E735A8146844E991970C3D62977632" trl="Y">
+    <value column="Name" isTrl="Y" original="Concepts load">Carga de conceptos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="AA678E9A0B144902924CE10974BFA40D" trl="Y">
+    <value column="Name" isTrl="Y" original="Importing Data">Importación de datos</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="BFCF46F596C04085BBBA8DBCD520B6C7" trl="Y">
+    <value column="Name" isTrl="Y" original="Upload Employee">Cargar empleados</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+  <row id="D12C565C792246CEAE03F87B8359E009" trl="Y">
+    <value column="Name" isTrl="Y" original="Transactions">Transacciones</value>
+    <value column="Description" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

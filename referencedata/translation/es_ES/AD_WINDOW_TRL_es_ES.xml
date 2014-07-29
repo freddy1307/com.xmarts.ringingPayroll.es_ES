@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_WINDOW" version="">
+  <row id="4658CE2C37B04F3D8CE5BC1267322E1C" trl="Y">
+    <value column="Name" isTrl="Y" original="Upload Employee">Cargar empleados</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="505E2678673141059550337BEA5AFA06" trl="Y">
+    <value column="Name" isTrl="Y" original="Concepts load">Carga de conceptos</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A11AC1EAB74045EDA941AF649F76B15E" trl="Y">
+    <value column="Name" isTrl="Y" original="Payroll receipts">Recibos de nómina</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+</compiereTrl>

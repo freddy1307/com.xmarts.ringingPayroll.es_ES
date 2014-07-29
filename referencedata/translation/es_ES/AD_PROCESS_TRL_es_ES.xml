@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<compiereTrl baseLanguage="en_US" language="es_ES" table="AD_PROCESS" version="">
+  <row id="09817D9BF87847DC9B9E274F2813E8DE" trl="Y">
+    <value column="Name" isTrl="Y" original="Ring Payroll">Timbrar nóminas</value>
+    <value column="Description" isTrl="Y" original="Ring Payroll">Timbrar nóminas</value>
+    <value column="Help" isTrl="Y" original="This procedure is performed only thing ringing all employee payrolls.">Este procedimiento lo único que realiza es timbrar todas las nóminas de los empleados.</value>
+  </row>
+  <row id="4248DDBA62EE4E3B9149AFCD5F6B3C37" trl="Y">
+    <value column="Name" isTrl="Y" original="Upload Excel">Cargar Excel</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="A50CFF481DE0418B904F2402F9162A67" trl="Y">
+    <value column="Name" isTrl="Y" original="Add Employees">Agregar de empleados</value>
+    <value column="Description" isTrl="Y" original="Employees load">Carga de empleados</value>
+    <value column="Help" isTrl="Y" original="This process adds all employees who are active to the selected payroll.">Este proceso agrega todos los empleados que están activos a la nómina seleccionada.</value>
+  </row>
+  <row id="D4367E2368BC42589B05EE9AAD88C4CB" trl="N">
+    <value column="Name" isTrl="N" original="Upload employee">Upload employee</value>
+    <value column="Description" isTrl="N" original=""/>
+    <value column="Help" isTrl="N" original=""/>
+  </row>
+  <row id="D56ABD5030854E11A56C184DD334D067" trl="Y">
+    <value column="Name" isTrl="Y" original="Add_Concepts">Agregar Conceptos</value>
+    <value column="Description" isTrl="Y" original="Add_Concepts">Agregar Conceptos</value>
+    <value column="Help" isTrl="Y" original="This process adds to the employees of the payroll, the concepts that are in the &quot;Load items&quot; window.">Este proceso agrega a los empleados de esta nómina, los conceptos que están en la ventana "Carga de conceptos".</value>
+  </row>
+</compiereTrl>
